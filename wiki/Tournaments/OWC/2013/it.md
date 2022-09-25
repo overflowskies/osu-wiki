@@ -6,7 +6,7 @@ outdated_translation: true
 
 ![OWC 2013 logo](img/logo.jpg)
 
-La **osu! World Cup 2013** (***OWC 2013***) è stato un torneo di osu! a nazioni organizzato dal [team di osu!](/wiki/People/The_Team). È stata la quarta edizione dell'osu! World Cup.
+La **osu! World Cup 2013** (***OWC 2013***) è stato un torneo di osu! per nazioni organizzato dal [team di osu!](/wiki/People/The_Team). È stata la quarta edizione dell'osu! World Cup.
 
 ## Tournament schedule
 
@@ -15,7 +15,7 @@ La **osu! World Cup 2013** (***OWC 2013***) è stato un torneo di osu! a nazioni
 | Fase di registrazione | 2013-10-15/2013-10-28 |
 | Sorteggi | 2013-10-31 (16:00 UTC) |
 | Fase a gironi | 2013-11-08/2013-11-10 |
-| Sedicesimi di finale| 2013-11-16/2013-11-17 |
+| Sedicesimi di finale | 2013-11-16/2013-11-17 |
 | Quarti di finale | 2013-11-24 |
 | Semifinali | 2013-11-30 |
 | Finali | 2013-12-07/2013-12-08 |
@@ -446,7 +446,7 @@ Domenica, 10 Novembre 2013:
    - Mappe vinte.
    - `∑{(differenza di punteggio) / (punteggio massimo)}`.
    - Vittoria nella risfida.
-4. The top two teams of each group will move on to the Knock-Out Stages. Le prime due squadre di ciascun girone passeranno ai sedicesimi di finale.
+4. Le prime due squadre di ciascun girone passeranno ai sedicesimi di finale.
 5. **Condizioni per la vittoria**
    - Nella fase a gironi, bisogna vincere 4 mappe per vincere la partita. (Primo a 7)
    - Ai sedicesimi e quarti di finale, bisogna vincere 5 mappe per vincere la partita. (Primo a 9)
@@ -454,14 +454,14 @@ Domenica, 10 Novembre 2013:
 
 ### Match instructions
 
-1. A referee will create a multiplayer room 30 minutes in advance. Players must gather during this period.
-   - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
+1. Un arbitro creerà la lobby 30 minuti prima dell'inizio della partita.
+   - La lobby sarà chiusa. La password e l'invito alla lobby saranno inviate ai due capitani quanto prima possibile.
    - Room settings are osu!, Team-Vs., Win Condition: 'Score'. Room name must be "osu! World Cup 2013: TeamBlue vs TeamRed"
-   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
-2. Referee will join the room externally. Referee will spectate the match via multi-spectator client.
-3. Players are free to select a warm-up map.
+   - La squadra menzionata per prima nel nome della lobby sarà la squadra blu, la squadra menzionata per seconda sarà la squadra rossa.
+2. L'arbitro entrerà nella lobby da esterno usando il client per le stream.
+3. I giocatori sono liberi di scegliere una mappa di riscaldamento.
 4. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects first.
-   - The captains may select maps out of the NoMod bracket freely.
+   - I capitani possono scegliere le mappe NoMod liberamente.
    - Selection out of mod-specific brackets is limited. Each captain may only select one map from each mod-restricted bracket during the match.
      - In Knock-Out Stage, selecting out of FreeMod bracket is unlimited.
    - In case of a tie, the tiebreaker map must be played.
@@ -492,5 +492,5 @@ Domenica, 10 Novembre 2013:
 2. Nella fase a gironi, le prime partite si giocheranno di venerdì (Novembre 8), le seconde di sabato (Novembre 9) e le terze di domenica (Novembre 10).
    - Le partite della fase a gironi potrebbero sovrapporsi
 3. Tutte le partite dai sedicesimi in poi si giocheranno o di sabato o di domenica.
-4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3th Nov. for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
+4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3th Nov. for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone. 
 5. I capitani sono responsabili della disponibilità delle loro squadre. Le squadre sono di 8 per garantire che ogni squadra possa far partecipare almeno 4 giocatori per partita. Se non sarà possibile, la partita sarà persa a tavolino.
