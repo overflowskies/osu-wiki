@@ -8,56 +8,56 @@ tags:
 
 ![OWC 2022 banner](img/owc2022_banner.jpg)
 
-The **osu! World Cup 2022** (***OWC 2022***) is an upcoming country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the thirteenth instalment of the osu! World Cup.
+L'**osu! World Cup 2022** (***OWC 2022***) è un torneo a nazioni di osu! gestito dal [team di osu!](/wiki/People/The_Team). È la terza edizione dell'osu! World Cup.
 
-## Tournament schedule
+## Calendario del torneo
 
-| Event | Timestamp |
+| Fase | Orario |
 | --: | :-- |
-| Registration phase | 2022-09-15/2022-09-29 |
-| Qualifier showcase | 2022-10-08 (14:00 UTC) |
-| Qualifier stage | 2022-10-15/2022-10-16 |
-| Round of 32 | 2022-10-22/2022-10-23 |
-| Round of 16 | 2022-10-29/2022-10-30 |
-| Quarterfinals | 2022-11-05/2022-11-06 |
-| Semifinals | 2022-11-12/2022-11-13 |
-| Finals | 2022-11-19/2022-11-20 |
-| Grand Finals | 2022-11-26/2022-11-27 |
+| Fase di registrazione | 2022-09-15/2022-09-29 |
+| Presentazione delle qualifiche | 2022-10-08 (14:00 UTC) |
+| Qualifiche | 2022-10-15/2022-10-16 |
+| Trentaduesimi di finale | 2022-10-22/2022-10-23 |
+| Sedicesimi di finale | 2022-10-29/2022-10-30 |
+| Quarti di finale | 2022-11-05/2022-11-06 |
+| Semifinali | 2022-11-12/2022-11-13 |
+| Finali | 2022-11-19/2022-11-20 |
+| Finalissima | 2022-11-26/2022-11-27 |
 
-## Prizes
+## Premi
 
-The osu! World Cup 2022 offers a minimum $5,000 cash prize pool and limited edition merch. The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-world-cup-2022-0b3a1a25)**!
+The osu! World Cup 2022 offers a minimum $5,000 cash prize pool and limited edition merch. The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-world-cup-2022-0b3a1a25)**! L'osu! World Cup offre un montepremi minimo di $5,000 e limited edition merch.
 
-| Placing | Prizes |
+| Posizione | Premi |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 48% of the prize pool, single-run merch, profile badge, **osu! Champion** user title for one year |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 48% del montepremi, merch esclusiva, medaglia sul profilo, titolo **osu! Champion** per un anno |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% del montepremi, merch esclusiva, medaglia sul profilo |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% del montepremi, merch esclusiva, medaglia sul profilo |
 
-## Organisation
+## Organizzazione
 
-The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+L'osu! World Cup 2022 è gestita dal [team di osu!](/wiki/People/The_Team) e vari membri della comunità.
 
-| Position | Member(s) |
+| Posizione | Membri |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691), ::{ flag=BR }:: [niii_san](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [saiyo](https://osu.ppy.sh/users/2709574), ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
-| Mappool quality assurance | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637) |
-| Mappool playtester | *TBA* |
-| Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
-| Commentator | *TBA* |
-| Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
+| Scelta del mappool | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691), ::{ flag=BR }:: [niii_san](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [saiyo](https://osu.ppy.sh/users/2709574), ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
+| Controllo di qualità del mappool | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637) |
+| Playtester del mappool | *TBA* |
+| Arbitri | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
+| Commentatori | *TBA* |
+| Statistico | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1645682?n=1)
-- **[Register here](https://osu.ppy.sh/community/tournaments/35)**
+- [Thread di discussione](https://osu.ppy.sh/community/forums/topics/1645682?n=1)
+- **[Registrati qui](https://osu.ppy.sh/community/tournaments/35)**
 - [Livestream](https://www.twitch.tv/osulive)
-- [Pick'ems page](https://pickem.hwc.hr/tournaments/100) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Pagina dei Pick'ems](https://pickem.hwc.hr/tournaments/100) gestito da ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
-## Ruleset
+## Regole
 
-### Tournament rules
+### Regole del torneo
 
 1. The osu! World Cup is a country-based team tournament, played on the osu! game mode.
    - Players from countries or territories (as seen on their profile flag) that are under a protectorate, sovereign state, or otherwise closely related to another country may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team.
